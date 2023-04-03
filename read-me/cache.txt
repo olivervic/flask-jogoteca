@@ -1,0 +1,2 @@
+o problema de cache é que, se você editar uma imagem, e no caso ela tiver o mesmo nome, o navegador vai entender que você não alterou nada, então colocamos na função na rota editar
+que ele edita, e manda um número do segundo exato incrementado no nome do arquivo, fazendo com que "gere" outro erro, que é a duplicidade da capa do jogo.
